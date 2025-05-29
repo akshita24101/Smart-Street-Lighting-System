@@ -38,7 +38,10 @@ Smart Street Lighting System based on vehicle movement using Arduino. A cost-eff
 - **Advanced sensors** for multi-lane detection
 - **Scalability** to large urban areas
 
+## 📝 License
+This project is licensed under the [MIT License](LICENSE).
 
-## 👨‍💻 Authors
-
-- Akshita Sondhi
+## 🙋‍♀️ Author
+**Akshita Sondhi**  
+Student (ECE), IIIT-Naya Raipur  
+Enthusiastic about electronics, AI, and real-world applications of technology.
